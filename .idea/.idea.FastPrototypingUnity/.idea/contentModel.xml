@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Assets" t="Include">
+          <e p="License.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ActivateScript.cs" t="Include" />
+          <e p="EventHandler.cs" t="Include" />
+          <e p="GameLogic.cs" t="Include" />
+          <e p="GrowthScript.cs" t="Include" />
+          <e p="LoadScene.cs" t="Include" />
+          <e p="PostProcessingChange.cs" t="Include" />
+          <e p="RemoveMyRenderer.cs" t="Include" />
+          <e p="SerializedClass.cs" t="Include" />
+          <e p="SerializedInformation.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FastPrototypingUnity.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_FastPrototypingUnity.-635890113.00" t="ExcludeRecursive" />
+  </component>
+</project>
