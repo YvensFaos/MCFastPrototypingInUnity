@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52eb57e8-34f5-4af2-85aa-e9aa8d594e3a" name="Default Changelist" comment="" />
+    <list default="true" id="52eb57e8-34f5-4af2-85aa-e9aa8d594e3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FastPrototypingUnity/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FastPrototypingUnity/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FastPrototypingUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FastPrototypingUnity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Panel/PanelAnimator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Panel/PanelAnimator.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyPostProcessingProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyPostProcessingProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SerializedInformation.cs" root0="FORCE_HIGHLIGHTING" />
@@ -28,14 +37,15 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EventHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActivateScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RemoveMyRenderer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GrowthScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameLogic.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PostProcessingChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LoadScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GrowthScript.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1blPVeQVyJ2EGqTy4nuGJbaNmIi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
